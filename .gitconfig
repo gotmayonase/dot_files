@@ -1,0 +1,13 @@
+[pivotal]
+	api-token = 0f329e56875761ed39d77a92f4ffe052
+	full-name = Mike Mayo
+	project-id = 44324
+[user]
+	name = Mike Mayo
+	email = mike@wieck.com
+[github]
+	user = gotmayonase
+[push]
+	default = current
+[pull]
+	default = current
